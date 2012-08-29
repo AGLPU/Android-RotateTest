@@ -14,9 +14,17 @@ public final class R {
         public static final int m=0x7f020000;
     }
     public static final class id {
-        public static final int Btn=0x7f050001;
-        public static final int Image=0x7f050002;
+        public static final int BtnBrowse=0x7f050008;
+        public static final int BtnCapture=0x7f050007;
+        public static final int BtnMoveLeft=0x7f050005;
+        public static final int BtnMoveRight=0x7f050004;
+        public static final int BtnReset=0x7f050006;
+        public static final int BtnRotate=0x7f050001;
+        public static final int BtnZoomIn=0x7f050002;
+        public static final int BtnZoomOut=0x7f050003;
+        public static final int Image=0x7f050009;
         public static final int Msg=0x7f050000;
+        public static final int captures=0x7f05000a;
     }
     public static final class layout {
         public static final int main=0x7f030000;
